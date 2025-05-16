@@ -1,0 +1,9 @@
+[
+  {
+    "name": "WaitActivity",
+    "type": "Wait",
+    "typeProperties": {
+      "waitTimeInSeconds": 15
+    }
+  }
+]
